@@ -1,6 +1,5 @@
 ﻿using System;
 
-#nullable enable
 namespace JPCodes.Extensions
 {
     public static class StringExtensions
