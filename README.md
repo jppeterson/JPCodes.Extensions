@@ -40,12 +40,15 @@ catch (Exception ex)
 
 String Parsing:
 ```
+//Parse an Int32
 string val = "1";
 int actual = val.ToInt().Value;
 
+//Parse a Guid
 string gVal = "91048bc3-5a4b-4e9e-980c-69c2e8fad7fe";
 Guid gActual = gVal.ToGuid().Value;
 
+//And others!
 //ToBool
 //ToDecimal
 //ToLong
