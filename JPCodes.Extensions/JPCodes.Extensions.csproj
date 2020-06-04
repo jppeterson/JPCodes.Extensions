@@ -5,7 +5,10 @@
     <Authors>Jake Peterson</Authors>
     <Company>JPCodes</Company>
     <Product />
-    <Version>1.1.0</Version>
+    <Version>1.1.1</Version>
+    <RepositoryUrl>https://github.com/jppeterson/JPCodes.Extensions/tree/master/JPCodes.Extensions</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <Description>Updated package details.</Description>
   </PropertyGroup>
 
 </Project>
